@@ -1,0 +1,4 @@
+node_modules/
+static/models/*
+!static/models/blue_whale/
+!static/models/warrior/
